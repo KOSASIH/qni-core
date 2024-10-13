@@ -1,2 +1,25 @@
-# Google App Engine generated folder
-appengine-generated/
+# Python files
+__pycache__/
+*.pyc
+
+# Virtual environment files
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Log files
+logs/
+*.log
+
+# Test files
+tests/__pycache__/
+tests/*.pyc
+
+# Other files
+*.bak
+*.swp
+.DS_Store
